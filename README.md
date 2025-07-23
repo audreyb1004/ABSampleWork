@@ -9,7 +9,7 @@
 
 ## Resume
 
-## Technical Skills
+### Technical Skills
 - **Programming & Tools:** Python, R, SQL, Excel, VBA, Tableau, PowerBI, Postgres, RStudio, Workiva
 - **Machine Learning:** Feature Engineering, Supervised & Unsupervised Learning, GridSearchCV, Predictive Modeling
 - **Workflow & Optimization:** Data Cleansing, Modeling Optimization, AGILE Methodologies
