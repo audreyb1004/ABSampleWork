@@ -18,7 +18,7 @@
 - **Machine Learning:** Feature Engineering, Supervised & Unsupervised Learning, GridSearchCV, Predictive Modeling
 - **Workflow & Optimization:** Data Cleansing, Modeling Optimization, AGILE Methodologies
 - **Certifications:** Microsoft Excel Expert (Office 2019)
-- 
+
 -----------------------------------
 
 ## Professional Experience
