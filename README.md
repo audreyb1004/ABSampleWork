@@ -7,18 +7,18 @@
 
 
 
-### Resume
+## Resume
 
-### Technical Skills
+## Technical Skills
 - **Programming & Tools:** Python, R, SQL, Excel, VBA, Tableau, PowerBI, Postgres, RStudio, Workiva
 - **Machine Learning:** Feature Engineering, Supervised & Unsupervised Learning, GridSearchCV, Predictive Modeling
 - **Workflow & Optimization:** Data Cleansing, Modeling Optimization, AGILE Methodologies
 - **Certifications:** Microsoft Excel Expert (Office 2019)
 
 -----------------------------------
-## Professional Experience
+### Professional Experience
 
-## **Lionpoint Group** — *Consultant*  
+### **Lionpoint Group** — *Consultant*  
 *New York, NY / Remote*  
 *Jan 2024 – Nov 2024*
 
