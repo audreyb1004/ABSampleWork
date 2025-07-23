@@ -2,13 +2,13 @@
 
 ## Example Project Work Links (by language)
 
-# R Studio
+### R Studio
 
-# Python
+### Python
 
-# SQL
+### SQL
 
-# R Studio
+### R Studio
 
 
 ## Resume
