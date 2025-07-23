@@ -1,6 +1,6 @@
 # Audrey Bennett Example Work, Resume, and Studies
 
-### Sample Work
+## Sample Work
 
 
 
