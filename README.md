@@ -1,14 +1,10 @@
 # Audrey Bennett Example Work, Resume, and Studies
 
-## Example Project Work Links (by language)
+## Sample Work
 
-### R Studio
 
-### Python
 
-### SQL
 
-### R Studio
 
 
 ## Resume
@@ -20,7 +16,6 @@
 - **Certifications:** Microsoft Excel Expert (Office 2019)
 
 -----------------------------------
-
 ## Professional Experience
 
 ### **Lionpoint Group** — *Consultant*  
@@ -48,7 +43,6 @@
 - Integrated geolocation data via ArcGIS to enhance underwriting accuracy and workflow efficiency.
 
 -----------------------------------
-
 ## Education
 
 ### **Northwestern University**  
@@ -60,7 +54,6 @@
 *Graduated: Dec 2023*
 
 -----------------------------------
-
 ## Publications
 
 **HCI International Conference (2022)**  
@@ -68,7 +61,6 @@
 Published in *Late Breaking Papers: HCI for Today's Community and Economy*
 
 -----------------------------------
-
 ## Community Involvement
 
 - **Ronald McDonald House Charities** – Volunteer  
