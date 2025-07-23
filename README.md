@@ -1,6 +1,6 @@
 # Audrey Bennett Example Work, Resume, and Studies
 
-## Sample Work
+### Sample Work
 
 
 
@@ -16,9 +16,9 @@
 - **Certifications:** Microsoft Excel Expert (Office 2019)
 
 -----------------------------------
-### Professional Experience
+## Professional Experience
 
-### **Lionpoint Group** — *Consultant*  
+## **Lionpoint Group** — *Consultant*  
 *New York, NY / Remote*  
 *Jan 2024 – Nov 2024*
 
